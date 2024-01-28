@@ -1,2 +1,3 @@
 # EDUREKA
 THIS IS MY 1ST REPOISITORY
+this is my 1st commit
